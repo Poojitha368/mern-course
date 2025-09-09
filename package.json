@@ -15,5 +15,8 @@
     "url": "https://github.com/Poojitha368/mern-course/issues"
   },
   "homepage": "https://github.com/Poojitha368/mern-course#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
