@@ -13,6 +13,12 @@ while(true){
     todos.push(task);
     console.log("task added");
     }
+    else if(work=="list"){
+        for(let i=0;i<todos.length;i++){
+            console.log(i,todos[i]);
+        }
+        console.log("===========================")
+    }
 }
 
 console.log("quitting todo app");
