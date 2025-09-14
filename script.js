@@ -19,6 +19,12 @@ while(true){
         }
         console.log("===========================")
     }
+    else if(work == "delete"){
+        let idx = prompt("enter task idx to delete todo");
+        todos.splice(idx,1);
+        console.log("task deleted");
+    }
+    work = prompt("enter what you want task to do ? (add/list/delete)");
 }
 
 console.log("quitting todo app");
