@@ -18,6 +18,7 @@
 //             console.log(i,todos[i]);
 //         }
 //         console.log("===========================")
+
 //     }
 //     else if(work == "delete"){
 //         let idx = prompt("enter task idx to delete todo");
