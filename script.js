@@ -1,6 +1,5 @@
 // console.log("welcome to todo app");
 
-
 // todos = []
 // let work = prompt("enter what you want task to do ? (add/list/delete)")
 
